@@ -65,5 +65,6 @@
     "GATEWAY_NAME": "Gateway Name",
     "UNIQUE_ID": "Eindeutige ID",
     "GATEWAY_TYPE": "Gateway Typ",
-    "ADD_GATEWAY": "Add Gateway"
+    "ADD_GATEWAY": "Add Gateway",
+    "NEW_TEST": ""
 }
