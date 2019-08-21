@@ -1,10 +1,10 @@
 {
     "ACTIVE_DEVICES": "Aktive Geräte",
-    "ANALYTICS": "Analyse",
+    "ANALYTICS": "analytics GITHUB!!11",
     "BATTERY": "Batterie Status",
     "CANCEL": "Abbrechen",
     "CHANGE_PASSWORD": "Passwort ändern",
-    "COMPANY": "Company:",
+    "COMPANY": "Firma",
     "CONFIGURATIONS": "Konfigurationen",
     "CONTENT": "Inhalt",
     "DASHBOARD": "Übersicht",
@@ -49,7 +49,7 @@
     "TIME": "Zeit",
     "TRIGGER": "Auslösen",
     "TYPE": "Typ",
-    "USER_PROFILE": "Benutzerprofil",
+    "USER_PROFILE": "Github Test",
     "VERSION": "Firmware Version",
     "CHANGE_PASSWORD_INTRO": "Bitte erstellen Sie ein Passwort, das folgende Anforderungen erfüllt:",
     "EIGHT_CHARS_LONG": "<span>At least </span> <span class='bold'>8 characters</span> long",
@@ -61,12 +61,11 @@
     "NO_DEVICES": "Sie sind derzeit nicht mit Geräten verbunden",
     "REFRESH": "Aktualisieren",
     "STATION_NAME": "Stationsname",
-    "USE_CASE": "Neuer Github Test",
+    "USE_CASE": "Github Test 5",
     "GATEWAY_NAME": "Gateway Name",
     "UNIQUE_ID": "Eindeutige ID",
     "GATEWAY_TYPE": "Gateway Typ",
     "ADD_GATEWAY": "Gateway hinzufügen",
     "NEW_TEST": "Neuer Test",
     "NON_EXISTENT_IN_DE": "Dieser Key war nur in der en.json"
-
 }
