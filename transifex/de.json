@@ -68,4 +68,5 @@
     "ADD_GATEWAY": "Gateway hinzufügen",
     "NEW_TEST": "Neuer Test",
     "NON_EXISTENT_IN_DE": "Dieser Key war nur in der en.json"
+
 }
